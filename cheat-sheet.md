@@ -10,7 +10,7 @@
 .gitignore
 
 
-#Stände mit Git
+#Vergleichen mit Git
 - git diff
 - Delete files
 - Move files
