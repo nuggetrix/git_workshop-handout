@@ -1,6 +1,7 @@
 #Git Befehle
-- init 
-   bare
+*init 
+git init (initialisiert aktuelles verzeichniss als neues directory)
+--   bare
 * add 
 git add filename
 git add . (all)
@@ -16,6 +17,10 @@ git mv oldname newname
 .gitkeep
 * Ignored Files
 .gitignore
+
+* annotate
+git annotate file (zeigen eines files mit Änderungen an jeder zeile)
+
 
 
 
