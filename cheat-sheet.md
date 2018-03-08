@@ -24,6 +24,12 @@ git annotate file (zeigen eines files mit Änderungen an jeder zeile)
 
 
 
+# config
+git config credential.https://example.com.username myusername
+git config --global user.email
+git config --global user.name
+
+
 #
 - reset 
 - revert
