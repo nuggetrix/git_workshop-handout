@@ -11,7 +11,6 @@ Lege dir einen persönlichen Github account an.
 Checke ein Open Source Projekt deiner wahl aus
 z.b. Angular, Spring Boot, Ansible, Eclipse, Visual Studio Code etc. 
 
-Bonus
 
 ## Aufgabe 2
 Finden von "Pending changes"
